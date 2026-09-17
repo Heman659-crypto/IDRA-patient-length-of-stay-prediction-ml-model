@@ -1,0 +1,10 @@
+# Core data science stack
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Notebook environment
+jupyter
+notebook
